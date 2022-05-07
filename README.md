@@ -1,8 +1,8 @@
-<h2 align="centre"> ɴɪxᴀ ᴍᴜsɪᴄ+sᴘᴀᴍ ʙᴏᴛ </h2>
+<h2 align="centre"> SFL OP</h2>
 
 ### ɴɪxᴀ ᴍᴜsɪᴄ+sᴘᴀᴍ ʙᴏᴛ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Superior_Bots"><img src="https://te.legra.ph/file/187646e964cd12329f1de.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Sfl_network"><img src="https://te.legra.ph/file/68e2e67944bbd0d0d0c78.jpg" width="300"></a></p>
 <p align="center">
     🧪 ɢᴇᴛ sᴛʀɪɴɢ sᴇssɪᴏɴ ꜰʀᴏᴍ ʜᴇʀᴇ:
 
@@ -10,7 +10,7 @@
 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
-[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Demon_Creators/184)
+[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/SFL_NETWORK/184)
 
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 
@@ -32,7 +32,7 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sumit9969/NIXA-MUSIC-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sakshi444a/NIXA-MUSIC-BOT)
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/World_FriendShip_Zone"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Demon_Creators"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/secretland_xd"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/sfl_network"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>

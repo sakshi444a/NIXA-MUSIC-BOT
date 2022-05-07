@@ -1,8 +1,8 @@
 {
-    "name": "ɴɪxᴀ ᴍᴜsɪᴄ ʙᴏᴛ",
+    "name": "SFL MUSIC OP ",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
-    "keywords": ["Nixa", "NIXA-MUSIC-BOT", "music", "voice chat", "telegram", "Private Music"],
-    "repository": "https://github.com/Sumit9969/NIXA-MUSIC-BOT",
+    "keywords": ["Nixa", "SAKSHI KA BOT ", "music", "voice chat", "telegram", "Private Music"],
+    "repository": "https://github.com/sakshi444a/NIXA-MUSIC-BOT",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
